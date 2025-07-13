@@ -1,4 +1,6 @@
-curl https://opensource.org/licenses/MIT > LICENSE
-git add LICENSE
-git commit -m "Add MIT license"
-git push origin main
+MIT License
+
+Copyright (c) 2025 Abdurrahman Assegaf
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
